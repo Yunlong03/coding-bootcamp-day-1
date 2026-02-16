@@ -1,0 +1,7 @@
+# Day 1 - Terminal and Git Basics
+
+Today I learned:
+- How to use Terminal commands
+- How to set up Git
+- How to create SSH keys
+- How to clone a repository
